@@ -6,9 +6,9 @@
 @media (min-width: 1281px) {
   
   .lgx-video-area-mobile {
-    display: none !important;
-    
+    display: none !important; 
   }
+
   
 }
 
@@ -66,6 +66,13 @@
   .action-area {
     display: none !important;
     
+  }
+  .navbar-header{
+    width: 100% !important;
+  }
+  .logo-header{
+
+    width: 50%;
   }
   
 }

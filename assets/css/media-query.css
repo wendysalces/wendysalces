@@ -11,6 +11,9 @@
   .navbar-header {
     width: 30% !important;
 }
+  .logo-mobile{
+    display: none;
+  }
 
   
 }
@@ -76,6 +79,9 @@
   .logo-header{
 
     width: 50%;
+  }
+  .logo-foro-display{
+    display: none !important; 
   }
   
 }

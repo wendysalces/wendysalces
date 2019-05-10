@@ -8548,7 +8548,7 @@ button:hover:after {
 .lgx-about-service .lgx-single-service-white .icon {
     font-size: 68px;
     font-size: 6.8rem;
-    color: #ec398b;
+    color: #fe9300;
     opacity: .4
 }
 
@@ -12205,7 +12205,7 @@ blockquote.lgx-testi-single:before {
 
 .lgx-social-footer li a {
     color: inherit;
-    background: #fff;
+    background: #f5a900;
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -12699,7 +12699,7 @@ blockquote.lgx-testi-single:before {
 
 .lgx-post-wrapper article header .social-group li a .fa-facebook-f,
 .lgx-post-wrapper article header .social-group li a .facebook-f {
-    color: #3b5998
+    color: #cd201f 
 }
 
 .lgx-post-wrapper article header .social-group li a .fa-linkedin {
@@ -12724,7 +12724,7 @@ blockquote.lgx-testi-single:before {
 }
 
 .lgx-post-wrapper article header .social-group li a:hover {
-    color: #554bb9
+    color: #cd201f
 }
 
 .lgx-post-wrapper article header .social-group li a:hover i {

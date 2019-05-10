@@ -6,7 +6,11 @@ a:hover {
     text-decoration: none;
     outline: 0
 }
+.style-copyright{
+  background: #181927 !important;
+  padding: 10px;
 
+}
 html {
     font-size: 62.5%
 }
@@ -12340,6 +12344,12 @@ blockquote.lgx-testi-single:before {
     font-weight: 700;
     letter-spacing: .08rem
 }
+.lgx-footer-single .footer-text {
+    line-height: 2.4000000000000004rem;
+    margin-bottom: 2.4rem;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .08rem
 
 .lgx-footer-single ul li {
     color: #999;
@@ -13183,6 +13193,3 @@ blockquote.lgx-testi-single:before {
     }
 }
 
-.navbar-header {
-    width: 30%;
-}

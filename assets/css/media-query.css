@@ -5,9 +5,12 @@
 
 @media (min-width: 1281px) {
   
-  .lgx-video-area-mobile {
+  .cart-area-display {
     display: none !important; 
   }
+  .navbar-header {
+    width: 30% !important;
+}
 
   
 }
@@ -63,7 +66,7 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   
-  .action-area {
+  .lgx-cart-area {
     display: none !important;
     
   }
@@ -76,3 +79,5 @@
   }
   
 }
+
+

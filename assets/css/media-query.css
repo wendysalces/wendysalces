@@ -14,6 +14,10 @@
   .logo-mobile{
     display: none;
   }
+  .view-mobile{
+    display: none !important; 
+
+  }
 
   
 }
@@ -35,8 +39,20 @@
 */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-   .cart-area-display {
+   .logo-foro-display{
     display: none !important; 
+  }
+  .logo-header{
+
+    width: 40%;
+    padding: 40px 0 0 10px;
+  }
+  .cart-area-display {
+    display: none !important; 
+  }
+  .view-mobile{
+    display: none !important; 
+
   }
  
   
@@ -85,6 +101,10 @@
   }
   .logo-foro-display{
     display: none !important; 
+  }
+  .view-display{
+    display: none !important; 
+
   }
   
 }
